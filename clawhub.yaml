@@ -1,0 +1,16 @@
+slug: smart-files
+name: smart-files
+owner: jlacroix82
+description: File and code analysis with search, type detection, and metadata extraction
+version: 1.0.0
+type: skill
+author: OpenClaw
+license: MIT
+keywords:
+  - files
+  - analysis
+  - search
+  - code
+  - agent
+entry: SKILL.md
+dependencies: []
